@@ -1,0 +1,13 @@
+{
+  "name": "live-game-chat",
+  "version": "1.0.0",
+  "description": "Multiplayer Game and Live Chat with Node.js and Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
